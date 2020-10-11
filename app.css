@@ -14,7 +14,7 @@ body {
 }
 
 .blurb p {
-	color: #f498b8;
+	color: #d64f7e;
 	font-weight: 100;
 	font-size: 1.125rem;
 	line-height: 2;
@@ -70,8 +70,4 @@ body {
 
 .imageLogo {
 	width: 128; height: 128; margin-top: -1.5rem; margin-bottom: -1.5rem;
-}
-
-a {
-	cursor: pointer;
 }
